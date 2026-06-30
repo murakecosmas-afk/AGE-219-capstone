@@ -3,3 +3,5 @@
 **Student Name** LEITURA MURAKE COSMAS
 **Registration Number** AGE/D/2024/0023
 **Instructor Name** Dr kadeghe Fue
+## project visualizations
+![Moisture Trends](moisture_trends.png)
